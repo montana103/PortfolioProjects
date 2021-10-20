@@ -48,5 +48,3 @@ left join PortfolioProject.dbo.market_segment
 on hotels.market_segment = PortfolioProject.dbo.market_segment.market_segment
 left join PortfolioProject.dbo.meal_cost
 on PortfolioProject.dbo.meal_cost.meal =hotels.meal
-
-file:///C:/Users/monta/Downloads/hotel%20revenue.pdf
